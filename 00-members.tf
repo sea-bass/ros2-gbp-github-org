@@ -51,6 +51,7 @@ locals {
     local.four_wheel_steering_msgs_team,
     local.foxglove_bridge_team,
     local.foxglove_msgs_team,
+    local.franka_robotics_team,
     local.gazebo_team,
     local.geographic_info_team,
     local.grbl_team,
