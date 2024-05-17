@@ -17,6 +17,7 @@ locals {
     local.autoware_team,
     local.aws_team,
     local.behaviortree_team,
+    local.beluga_team,
     local.black_coffee_robotics_team,
     local.bno055_team,
     local.boeing_team,

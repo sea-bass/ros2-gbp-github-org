@@ -17,6 +17,7 @@ locals {
     local.autoware_repositories,
     local.aws_repositories,
     local.behaviortree_repositories,
+    local.beluga_repositories,
     local.black_coffee_robotics_repositories,
     local.bno055_repositories,
     local.boeing_repositories,
