@@ -2,6 +2,7 @@ locals {
   autoware_team = [
     "esteve",
     "mitsudome-r",
+    "xmfcx",
     "youtalk",
   ]
 
