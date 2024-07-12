@@ -39,6 +39,7 @@ locals {
     "rclpy-release",
     "ros2cli_common_extensions-release",
     "ros_environment-release",
+    "ros2_tracing",
     "rosidl_core-release",
     "rosidl_defaults-release",
     "sros2-release",
