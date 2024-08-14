@@ -3,7 +3,7 @@ locals {
     "padhupradheep",
   ]
   neobotix_repositories = [
-    "neo_simulation2-release",
+    "neo_nav2_bringup-release",
   ]
 }
 
