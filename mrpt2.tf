@@ -13,10 +13,12 @@ locals {
     "mrpt_msgs-release",
     "mrpt_navigation-release",
     "mrpt_path_planning-release",
+    "mrpt_ros-release",
     "mrpt_sensors-release",
     "mrpt_slam-release",
     "mvsim-release",
     "pose_cov_ops-release",
+    "python_mrpt_ros-release",
   ]
 }
 
