@@ -6,6 +6,7 @@ locals {
   mrpt2_repositories = [
     "mola-release",
     "mola_common-release",
+    "mola_lidar_odometry-release",
     "mola_test_datasets-release",
     "mp2p_icp-release",
     "mrpt2-release",
