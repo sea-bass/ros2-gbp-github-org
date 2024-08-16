@@ -1,6 +1,7 @@
 locals {
   py_trees_team = [
     "stonier",
+    "sea-bass",
   ]
   py_trees_repositories = [
     "py_trees-release",
