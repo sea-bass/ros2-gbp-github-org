@@ -5,6 +5,7 @@ locals {
     "henningkayser",
     "pac48",
     "rhaschke",
+    "sea-bass",
     "sjahr",
     "tylerjw",
     "v4hn",
